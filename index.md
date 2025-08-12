@@ -3,7 +3,8 @@ title: Home
 layout: home
 ---
 
-# Sobre o Bot
+{: .highlight }
+Sobre o Bot
 
 O **MentorBot** é um bot criado especialmente para tornar a rotina de monitores e estudantes da Uninter mais prática, organizada e acessível no Discord!
 
