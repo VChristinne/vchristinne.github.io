@@ -42,7 +42,7 @@ nav_order: 2
 
 ---
 
-{: .highlight }
+{: .highlight-title }
 > Comando Extensionista (_Em Breve_)
 >
 > Organização e criação de grupos de Extensionistas por curso.
@@ -55,7 +55,7 @@ nav_order: 2
 
 ---
 
-{: .highlight }
+{: .highlight-title }
 > Comando Lista (_Em Breve_)
 >
 > Lista dos grupos não oficiais
