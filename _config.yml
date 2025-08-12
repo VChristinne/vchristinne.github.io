@@ -3,3 +3,4 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://vchristinne.github.io/
+nav_enabled: true
