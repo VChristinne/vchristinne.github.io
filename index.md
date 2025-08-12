@@ -1,16 +1,8 @@
 ---
 title: Home
 layout: home
----
-
-<div align="center">
-
-<img src="assets/bot-icon.png" alt="MentorBot" width="110"/>
-
-# 👋 Boas Vindas ao MentorBot
-
-</div>
-
+nav_order: 1
+permalink: /
 ---
 
 ## Sobre o Bot
@@ -19,13 +11,13 @@ O **MentorBot** foi criado para tornar a rotina de monitores e estudantes da Uni
 
 ---
 
-## ✨ Por que esse Bot existe?
+## Por que esse Bot existe?
 
 Olá! Me chamo **Chris**, integrante da Monitoria 2025 da Uninter e estudante do curso de **Análise e Desenvolvimento de Sistemas**. O MentorBot surgiu como meu projeto da **Atividade Extensionista**, e também para atender à necessidade de um espaço centralizado para organizar contatos, comandos, grupos e informações úteis para todos.
 
 ---
 
-## 💡 O que o MentorBot faz?
+## O que o MentorBot faz?
 
 - **Centraliza informações** importantes de contato, grupos e suporte oficial.
 - **Facilita o dia a dia** de monitores, automatizando respostas e notificações.
@@ -35,7 +27,7 @@ Olá! Me chamo **Chris**, integrante da Monitoria 2025 da Uninter e estudante do
 
 ---
 
-## 🚀 Características principais
+## Características principais
 
 - Comandos intuitivos (`/contato`, `/definir`, `/referencias`, etc)
 - Notificações por DM sobre dúvidas novas
