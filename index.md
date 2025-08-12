@@ -29,7 +29,8 @@ O MentorBot surgiu como meu projeto da Atividade Extensionista e para atender à
 
 ## Características principais
 
-- Online de Segunda a Sexta das 11:00 AM às 8:00 PM (UTC+2 - Madrid Timezone). _Sujeito à mudanças por motivos externos._
+- **Online de Segunda a Sexta das 11:00 AM às 8:00 PM (UTC+2 - Madrid Timezone)**.
+  _Sujeito à mudanças por motivos externos._
 - Comandos intuitivos (`/contato`, `/definir`, `/referencias`, etc).
 - Notificações por DM sobre dúvidas novas.
 - Guia de comandos para alunos e monitores.
