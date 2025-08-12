@@ -1,5 +1,5 @@
 ---
-title: Comandos
+title: Comandos de Alunos
 layout: home
 nav_order: 2
 ---

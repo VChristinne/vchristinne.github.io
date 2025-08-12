@@ -1,5 +1,5 @@
 ---
-title: Comandos
+title: Comandos de Monitores
 layout: home
 nav_order: 3
 ---
@@ -10,12 +10,10 @@ Todos os comandos disponíveis para monitores com Endpoints de Endpoint e o que 
 
 ---
 
-{: .note-title }
-> Formas de Usar
->
-> 1. Digite o comando no chat do Discord exatamente como mostrado.
->
-> 2. Digite `/` e selecione o ícone do MentorBot na lista da esquerda.
+## Formas de Usar
+
+1. Digite o comando no chat do Discord exatamente como mostrado.
+2. Digite `/` e selecione o ícone do MentorBot na lista da esquerda.
 
 ---
 
