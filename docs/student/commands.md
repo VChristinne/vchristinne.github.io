@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 
-# Comandos do MentorBot para Alunos
+# Alunos
 
 ## Formas de Usar
 
@@ -14,7 +14,9 @@ nav_order: 2
 ---
 
 {: .note-title }
-> Visualize todos os comandos e descrições.
+> Comando Definir
+>
+> Visualize todos os comandos.
 >
 > **Endpoint:**
 > `/definir`
@@ -25,13 +27,15 @@ nav_order: 2
 ---
 
 {: .note-title }
+> Comando Contato
+>
 > Exibe os canais oficiais de atendimento da Uninter.
 >
 > **Endpoint:**
 > `/contato`
 >
 > **Resposta:**
-> Lista de contatos oficiais (SAC, suporte técnico, etc).
+> Lista de contatos oficiais (CMA, financeiro, coordenador, etc).
 >
 > **Demo:**
 > [Video](https://github.com/user-attachments/assets/70d8efed-b3ec-47ca-9440-12eb54e056eb)
@@ -39,25 +43,15 @@ nav_order: 2
 ---
 
 {: .note-title }
-> Extensionista
->
-> _Em Breve_
+> Comando Extensionista (_Em Breve_)
 >
 > Organize grupos de Extensionistas por turma.
 
 ---
 
 {: .note-title }
-> Lista
->
-> _Em Breve_
+> Comando Lista (_Em Breve_)
 >
 > Acesse os grupos não oficiais de WhatsApp e Discord da Uninter.
 
 ---
-
-<div align="center">
-
-✨ Use o comando `/definir` sempre que quiser lembrar o que cada comando faz! ✨
-
-</div>

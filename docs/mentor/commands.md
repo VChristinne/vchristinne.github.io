@@ -4,7 +4,7 @@ layout: home
 nav_order: 3
 ---
 
-# Comandos do MentorBot para Monitores
+# Monitores
 
 ## Formas de Usar
 
@@ -14,9 +14,9 @@ nav_order: 3
 ---
 
 {: .note-title }
-> Definir
+> Comando Definir
 >
-> Visualize todos os comandos e descrições.
+> Visualize todos os comandos.
 >
 > **Endpoint:**
 > `/definir`
@@ -27,15 +27,15 @@ nav_order: 3
 ---
 
 {: .note-title }
-> Referencias
+> Comando Referencias
 >
-> Guias de referência para tarefas comuns.
+> Guias de referência para perguntas mais frequentes.
 >
 > **Endpoint:**
 > `/referencias`
 >
 > **Resposta:**
-> FAQ para monitores.
+> Lista de perguntas com as respostas pré respondidas.
 >
 > **Demo:**
 > [Video](https://github.com/user-attachments/assets/7ba8b9b0-cf56-4fab-b432-ef837c32e84b)
@@ -43,7 +43,7 @@ nav_order: 3
 ---
 
 {: .note-title }
-> Resolvido
+> Comando Resolvido
 >
 > Marque perguntas como resolvidas.
 >
@@ -51,16 +51,16 @@ nav_order: 3
 > `/resolvido`
 >
 > **Resposta:**
-> Pergunta foi marcada como resolvida e recebe as informações por DM.
+> Marca como resolvida pelo ID da mensagem e recebe as informações por DM.
 >
 > **Demo:**
-> [Video da duvida resolvida](https://github.com/user-attachments/assets/47dde7e6-a77f-40d0-8000-ecd5fca8748e)
+> [Video da duvida resolvida](https://github.com/user-attachments/assets/47dde7e6-a77f-40d0-8000-ecd5fca8748e) |
 > [Video da DM](https://github.com/user-attachments/assets/0614055b-5e12-49de-aa7a-32d96d48f476)
 
 ---
 
 {: .note-title }
-> Verificar
+> Comando Verificar
 >
 > Verifique o status de uma pergunta.
 >
@@ -68,14 +68,12 @@ nav_order: 3
 > `/verificar`
 >
 > **Resposta:**
-> Mostra se a pergunta está resolvida ou não.
+> Mostra se a pergunta está resolvida ou não pelo ID da mensagem.
 
 ---
 
 {: .note-title }
-> Notificar
->
-> _Em Breve_
+> Comando Notificar (_Em Breve_)
 >
 > Configure alertas opcionais por DM para novas perguntas.
 >
@@ -88,9 +86,7 @@ nav_order: 3
 ---
 
 {: .note-title }
-> Naoresolvido
->
-> _Em Breve_
+> Comando Naoresolvido (_Em Breve_)
 >
 > Remova status de resolvido.
 >
@@ -101,9 +97,3 @@ nav_order: 3
 > O status de resolvido foi removido da pergunta.
 
 ---
-
-<div align="center">
-
-✨ Use o comando `/definir` sempre que quiser lembrar o que cada comando faz! ✨
-
-</div>
