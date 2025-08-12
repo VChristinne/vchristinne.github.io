@@ -7,3 +7,20 @@ nav_enabled: true
 
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
+
+callouts:
+  highlight:
+    title: Highlight
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red

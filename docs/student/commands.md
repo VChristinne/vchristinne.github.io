@@ -14,8 +14,6 @@ nav_order: 2
 ---
 
 {: .note-title }
-> Definir
->
 > Visualize todos os comandos e descrições.
 >
 > **Endpoint:**
@@ -27,8 +25,6 @@ nav_order: 2
 ---
 
 {: .note-title }
-> Contato
->
 > Exibe os canais oficiais de atendimento da Uninter.
 >
 > **Endpoint:**
