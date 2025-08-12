@@ -42,16 +42,26 @@ nav_order: 2
 
 ---
 
-{: .note-title }
+{: .note-highlight }
 > Comando Extensionista (_Em Breve_)
 >
-> Organize grupos de Extensionistas por turma.
+> Organização e criação de grupos de Extensionistas por curso.
+>
+> **Endpoint:**
+> `/extensionista`
+>
+> **Resposta:**
+> Selecione o tamanho, exibe a lista dos grupos, e avisa por DM caso alguém entre no grupo.
 
 ---
 
-{: .note-title }
+{: .note-highlight }
 > Comando Lista (_Em Breve_)
 >
-> Acesse os grupos não oficiais de WhatsApp e Discord da Uninter.
-
----
+> Lista dos grupos não oficiais
+>
+> **Endpoint:**
+> `/lista`
+>
+> **Resposta:**
+> Adicionar ou listar os grupos não oficiais de WhatsApp e Discord da Uninter.

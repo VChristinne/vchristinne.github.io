@@ -72,7 +72,7 @@ nav_order: 3
 
 ---
 
-{: .note-title }
+{: .note-highlight }
 > Comando Notificar (_Em Breve_)
 >
 > Configure alertas opcionais por DM para novas perguntas.
@@ -85,7 +85,7 @@ nav_order: 3
 
 ---
 
-{: .note-title }
+{: .note-highlight }
 > Comando Naoresolvido (_Em Breve_)
 >
 > Remova status de resolvido.
@@ -95,5 +95,3 @@ nav_order: 3
 >
 > **Resposta:**
 > O status de resolvido foi removido da pergunta.
-
----
