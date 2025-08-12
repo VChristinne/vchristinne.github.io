@@ -6,35 +6,44 @@ nav_order: 2
 
 # Comandos do MentorBot para Alunos
 
-Todos os comandos disponíveis para alunos com exemplos de uso e o que cada um faz.
+## Formas de Usar
+
+1. Escreva o comando no chat do Discord exatamente como mostrado.
+2. Digite `/` e selecione o ícone do MentorBot na lista da esquerda.
 
 ---
 
 {: .note-title }
-> Formas de Usar
->
-> 1. Digite o comando no chat do Discord exatamente como mostrado.
->
-> 2. Digite `/` e selecione o ícone do MentorBot na lista da esquerda.
-
----
-
-{: .note-title }
-> `/definir`
+> Definir
 >
 > Visualize todos os comandos e descrições.
+>
+> **Endpoint:**
+> `/definir`
+>
+> **Resposta:**
+> Lista de comandos disponíveis e suas descrições.
 
 ---
 
 {: .note-title }
-> `/contato`
+> Contato
 >
 > Exibe os canais oficiais de atendimento da Uninter.
+>
+> **Endpoint:**
+> `/contato`
+>
+> **Resposta:**
+> Lista de contatos oficiais (SAC, suporte técnico, etc).
+>
+> **Demo:**
+> [Video](https://github.com/user-attachments/assets/70d8efed-b3ec-47ca-9440-12eb54e056eb)
 
 ---
 
 {: .note-title }
-> `/extensionista`
+> Extensionista
 >
 > _Em Breve_
 >
@@ -43,7 +52,7 @@ Todos os comandos disponíveis para alunos com exemplos de uso e o que cada um f
 ---
 
 {: .note-title }
-> `/lista`
+> Lista
 >
 > _Em Breve_
 >
