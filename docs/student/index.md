@@ -2,7 +2,7 @@
 title: Alunos
 nav_order: 3
 has_children: true
-permalink: /student/
+permalink: /alunos/
 ---
 
 # Alunos
