@@ -4,7 +4,7 @@ parent: Monitores
 nav_order: 1
 ---
 
-# Monitores
+# Comandos
 
 ## Formas de Usar
 

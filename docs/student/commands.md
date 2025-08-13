@@ -4,7 +4,7 @@ parent: Alunos
 nav_order: 1
 ---
 
-# Alunos
+# Comandos
 
 ## Formas de Usar
 
