@@ -1,11 +1,11 @@
 ---
-title: Dúvidas
+title: FAQ
 parent: Monitores
 nav_order: 2
-permalink: /mentor/questions/
+permalink: /monitores/faq/
 ---
 
-# Dúvidas
+# FAQ
 
 1. TOC
 {:toc}

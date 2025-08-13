@@ -2,7 +2,7 @@
 title: Comandos
 parent: Alunos
 nav_order: 1
-permalink: /student/commands/
+permalink: /alunos/comandos/
 ---
 
 # Comandos
