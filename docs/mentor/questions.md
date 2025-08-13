@@ -2,6 +2,7 @@
 title: Dúvidas
 parent: Monitores
 nav_order: 2
+permalink: /mentor/questions/
 ---
 
 # Dúvidas
