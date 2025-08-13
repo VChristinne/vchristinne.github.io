@@ -1,7 +1,7 @@
 ---
-title: Comandos de Alunos
-layout: home
-nav_order: 2
+title: Comandos
+parent: Alunos
+nav_order: 1
 ---
 
 # Alunos

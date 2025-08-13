@@ -1,7 +1,7 @@
 ---
-title: Comandos de Monitores
-layout: home
-nav_order: 3
+title: Comandos
+parent: Monitores
+nav_order: 1
 ---
 
 # Monitores
