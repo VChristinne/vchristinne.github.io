@@ -1,7 +1,6 @@
 ---
 title: Alunos
 nav_order: 3
-has_children: true
 permalink: /alunos/
 ---
 
