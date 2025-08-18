@@ -1,9 +1,9 @@
 ---
-title: Alunos
+title: Aluno
 nav_order: 3
 ---
 
-# Alunos
+# Aluno
 
 Esta seção apresenta orientações para utilização do MentorBot pelos alunos da Uninter, visando facilitar o acesso a informações institucionais e recursos de apoio.
 

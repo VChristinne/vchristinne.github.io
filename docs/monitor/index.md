@@ -1,9 +1,9 @@
 ---
-title: Monitores
+title: Monitor
 nav_order: 2
 ---
 
-# Monitores
+# Monitor
 {: .no_toc }
 
 Esta seção reúne recursos específicos para monitores da Uninter.
