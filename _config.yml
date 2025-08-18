@@ -3,8 +3,16 @@ title: MentorBot Docs
 description: Docs for MentorBot
 
 # Remote Setting
-baseurl: "/mentorbot"
+baseurl: ""
 url: "https://vchristinne.github.io"
+repository: just-the-docs/just-the-docs
+
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
 
 # Theme
 theme: just-the-docs
