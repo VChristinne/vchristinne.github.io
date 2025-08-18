@@ -10,8 +10,3 @@ Esta seção apresenta orientações para utilização do MentorBot pelos alunos
 Conteúdo disponível:
 - Lista de comandos acessíveis aos alunos
 - Instruções para uso dos comandos no Discord
-
----
-
-- TOC
-{:toc}
