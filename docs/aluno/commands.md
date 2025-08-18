@@ -1,6 +1,6 @@
 ---
 title: Comandos
-parent: Alunos
+parent: Aluno
 nav_order: 1
 ---
 

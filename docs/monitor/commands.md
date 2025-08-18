@@ -1,6 +1,6 @@
 ---
 title: Comandos
-parent: Monitores
+parent: Monitor
 nav_order: 1
 ---
 

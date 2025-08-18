@@ -1,6 +1,6 @@
 ---
 title: FAQ
-parent: Monitores
+parent: Monitor
 nav_order: 2
 ---
 
