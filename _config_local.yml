@@ -1,9 +1,15 @@
+# Site Setting
 title: MentorBot Docs
 description: Docs for MentorBot
+
+# Local Setting
+baseurl: ""
+url: ""
+
+# Theme
 theme: "just-the-docs"
 # remote_theme: pmarsceill/just-the-docs
 
-url: https://vchristinne.github.io/
 nav_enabled: true
 
 back_to_top: true
