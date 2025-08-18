@@ -2,7 +2,6 @@
 title: FAQ
 parent: Monitores
 nav_order: 2
-permalink: /monitores/faq/
 ---
 
 # FAQ

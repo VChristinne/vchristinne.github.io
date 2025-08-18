@@ -2,7 +2,6 @@
 title: Comandos
 parent: Monitores
 nav_order: 1
-permalink: /monitores/comandos/
 ---
 
 # Comandos

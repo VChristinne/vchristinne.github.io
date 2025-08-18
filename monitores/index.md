@@ -1,7 +1,6 @@
 ---
 title: Monitores
 nav_order: 2
-permalink: /monitores/
 ---
 
 # Monitores
