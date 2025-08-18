@@ -36,5 +36,4 @@ O MentorBot possui funções internas para monitorar o uso dos comandos pelos mo
 - `report`: Contagem individual, armazenando o hash do UserID e comandos usados.
 
 Esses dados são usados **apenas para gerar relatório de uso** na Atividade Extensionista.
-
 **Nenhum nome de usuário é divulgado** - apenas números totais e quantidade de usuários.
