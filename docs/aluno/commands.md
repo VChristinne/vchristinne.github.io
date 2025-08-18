@@ -7,7 +7,6 @@ nav_order: 1
 # Comandos
 {: .no_toc }
 
-## Tabela de Conteúdos
 - TOC
 {:toc}
 

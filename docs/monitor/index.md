@@ -14,6 +14,5 @@ Conteúdo disponível:
 
 ---
 
-## Tabela de Conteúdos
 - TOC
 {:toc}

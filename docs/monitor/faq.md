@@ -7,7 +7,6 @@ nav_order: 2
 # FAQ
 {: .no_toc }
 
-## Tabela de Conteúdos
 1. TOC
 {:toc}
 
