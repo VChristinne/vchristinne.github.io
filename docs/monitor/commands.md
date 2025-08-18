@@ -53,7 +53,7 @@ nav_order: 1
 
 **Endpoint:** `/resolvido [MessageID]`
 
-**Resposta:** Marca como resolvida pelo [MessageID]({% link docs/mentor/faq.md %}) e recebe as informações por DM.
+**Resposta:** Marca como resolvida pelo [MessageID]({% link docs/monitor/faq.md %}) e recebe as informações por DM.
 
 **Demo:**
 - [Video da duvida resolvida](https://github.com/user-attachments/assets/47dde7e6-a77f-40d0-8000-ecd5fca8748e)
@@ -67,7 +67,7 @@ nav_order: 1
 
 **Endpoint:** `/verificar [MessageID]`
 
-**Resposta:** Mostra se a pergunta está resolvida ou não pelo [MessageID]({% link docs/monitores/faq.md %}).
+**Resposta:** Mostra se a pergunta está resolvida ou não pelo [MessageID]({% link docs/monitor/faq.md %}).
 
 ---
 
